@@ -13,7 +13,7 @@
         android:id="@+id/tltle_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="楽しいクイズアプリ"
+        android:text="クイズアプリ"
         android:textSize="34sp" />
 
     <TextView
